@@ -7,7 +7,7 @@
 
         <StackLayout>
 
-            <Label Text="Bruh my Homepage" 
+            <Label Text="Sample Homepage" 
 
                 VerticalOptions="CenterAndExpand"  
 
