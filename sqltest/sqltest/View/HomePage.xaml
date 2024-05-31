@@ -7,7 +7,7 @@
 
         <StackLayout>
 
-            <Label Text="Welcome to Home Page!" 
+            <Label Text="This is my Homepage" 
 
                 VerticalOptions="CenterAndExpand"  
 
